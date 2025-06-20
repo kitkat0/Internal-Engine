@@ -2,6 +2,8 @@
 
 Internal Engine is a powerful internal memory manipulation and debugging tool that operates from within the target process via DLL injection. It features a modern web-based UI with advanced stealth capabilities and real-time performance optimization.
 
+![image](https://github.com/user-attachments/assets/de1c455f-1e82-45cd-8932-3b03647f2ab9)
+
 ## 🚀 Features
 
 - **Internal Operation**: Runs inside the target process for maximum access and minimal detection
