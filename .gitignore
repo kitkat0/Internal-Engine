@@ -1,0 +1,62 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+/x64/
+/Win32/
+/Debug/
+/Release/
+*.dll
+*.lib
+*.obj
+*.exe
+*.pdb
+*.iobj
+*.ipdb
+*.tlog
+
+# Visual Studio files
+.vs/
+*.vcxproj.user
+*.vcxproj.filters.user
+*.suo
+*.user
+*.sln.docstates
+
+# Web UI build
+/WebUI/dist/
+/WebUI/build/
+/WebUI/.vite/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Package lock files (optional - you may want to include these)
+package-lock.json
+yarn.lock
+
+# IDE files
+.vscode/
+.idea/
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local

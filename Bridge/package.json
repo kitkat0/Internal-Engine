@@ -1,0 +1,21 @@
+{
+  "name": "internal-engine-bridge",
+  "version": "1.0.0",
+  "description": "Bridge between Internal Engine DLL and Web UI using HTTP",
+  "main": "bridge.js",
+  "scripts": {
+    "start": "node bridge.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "internal-engine",
+    "bridge",
+    "http",
+    "ipc"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.14.2"
+  }
+}
